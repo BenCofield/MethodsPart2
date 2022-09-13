@@ -1,0 +1,15 @@
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/bin/Debug/net6.0/MethodsPart2
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/bin/Debug/net6.0/MethodsPart2.deps.json
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/bin/Debug/net6.0/MethodsPart2.runtimeconfig.json
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/bin/Debug/net6.0/MethodsPart2.dll
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/bin/Debug/net6.0/MethodsPart2.pdb
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/MethodsPart2.csproj.AssemblyReference.cache
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/MethodsPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/MethodsPart2.AssemblyInfoInputs.cache
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/MethodsPart2.AssemblyInfo.cs
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/MethodsPart2.csproj.CoreCompileInputs.cache
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/MethodsPart2.dll
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/refint/MethodsPart2.dll
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/MethodsPart2.pdb
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/MethodsPart2.genruntimeconfig.cache
+/Users/bencofield/repos/Methods/MethodsPart2/MethodsPart2/MethodsPart2/obj/Debug/net6.0/ref/MethodsPart2.dll
